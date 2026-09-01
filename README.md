@@ -1,0 +1,5 @@
+Ola Meu nome é Mateus, Quero e tenho como objetivo construir uma carreira solida dentro da area de TI
+criei esse repositorio para :
+ - Deixar registrado os Projetos que fiz Dentro e Fora de sala de aula ( cursos e faculdades que estou fanzendo e iriei fazer )
+ - apresentar minhas evoluções ao longo do tempo
+ - Conseguir Crescer tanto na area Profissional quanto na area Pessoal juntamente com a Empresa e Sozinho tambem
